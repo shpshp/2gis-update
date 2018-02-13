@@ -38,17 +38,19 @@ wget -N "http://redirect.2gis.com/www/?page=distributive_cumulative&id=38" %opti
 :loop7
 wget -N "http://redirect.2gis.com/www/?page=distributive_cumulative&id=40" %options% || goto :loop7
 :loop8
-wget -N "http://redirect.2gis.com/www/?page=distributive_cumulative&id=59" %options% || goto :loop8
+wget -N "http://redirect.2gis.com/www/?page=distributive_cumulative&id=47" %options% || goto :loop8
 :loop9
-wget -N "http://redirect.2gis.com/www/?page=distributive_cumulative&id=61" %options% || goto :loop9
+wget -N "http://redirect.2gis.com/www/?page=distributive_cumulative&id=59" %options% || goto :loop9
 :loop10
-wget -N "http://redirect.2gis.com/www/?page=distributive_cumulative&id=67" %options% || goto :loop10
+wget -N "http://redirect.2gis.com/www/?page=distributive_cumulative&id=61" %options% || goto :loop10
 :loop11
-wget -N "http://redirect.2gis.com/www/?page=distributive_cumulative&id=71" %options% || goto :loop11
+wget -N "http://redirect.2gis.com/www/?page=distributive_cumulative&id=67" %options% || goto :loop11
 :loop12
-wget -N "http://redirect.2gis.com/www/?page=distributive_cumulative&id=74" %options% || goto :loop12
+wget -N "http://redirect.2gis.com/www/?page=distributive_cumulative&id=71" %options% || goto :loop12
 :loop13
-wget -N "http://redirect.2gis.com/www/?page=distributive_cumulative&id=92" %options% || goto :loop13
+wget -N "http://redirect.2gis.com/www/?page=distributive_cumulative&id=74" %options% || goto :loop13
 :loop14
-wget -N "http://redirect.2gis.com/www/?page=distributive_cumulative&id=112" %options% || goto :loop14
+wget -N "http://redirect.2gis.com/www/?page=distributive_cumulative&id=92" %options% || goto :loop14
+:loop15
+wget -N "http://redirect.2gis.com/www/?page=distributive_cumulative&id=112" %options% || goto :loop15
 popd
