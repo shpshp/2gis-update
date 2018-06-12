@@ -1,7 +1,7 @@
 # 2gis-update
 2gis for Windows update cmd & sh convenience script
 
-# 2gis install for Ubuntu
+# 2gis install for Ubuntu (old)
 
 ```bash
 echo 'deb http://deb.2gis.ru/ trusty non-free' | sudo tee /etc/apt/sources.list.d/2gis.list
